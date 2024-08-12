@@ -1,2 +1,1 @@
-# threadspool
-a simple project
+这是一个c++的线程池项目
